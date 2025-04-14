@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Senai</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <img src="aula.jpg" alt="logo" class="logo">
+    <div class="container">
+       <h3>Formulario</h3>
+    <input type="text" placeholder="Nome">
+    <input type="email" placeholder="E-mail">
+    <input type="password" placeholder="Senha">
+    <button type="button">cadastrar</button>
+
+   </div> 
+</body>
+</html>
